@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+examples/*.png
+dist/
+build/
+candlecast.config.json
+*.egg-info/
